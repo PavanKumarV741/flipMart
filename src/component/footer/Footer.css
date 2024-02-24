@@ -1,0 +1,20 @@
+.foot{
+    position: relative;
+}
+
+.footer{
+    background-color: rgba(0, 0, 0, 0.728);
+    min-height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    position: fixed;
+}
+
+.icons{
+    width: 4vw;
+    height: 5vh;
+    margin: 10px;
+}
